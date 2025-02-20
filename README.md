@@ -1,6 +1,7 @@
 # 🔥 Autonomous AI Research Agent (AIRA)
 
 A self-updating RAG (Retrieval-Augmented Generation) system designed to autonomously research, analyze, and experiment with the latest developments in AI/ML/NLP.
+![aira-code-flow](https://github.com/user-attachments/assets/aafd213c-cb51-4020-8659-bcd4911cb9e9)
 
 ## 🎯 Overview
 
@@ -23,6 +24,8 @@ AIRA is an intelligent research assistant that autonomously finds, retrieves, an
 - **Web Scraping**: BeautifulSoup / Scrapy
 - **Research APIs**: ArXiv API / Semantic Scholar API
 - **Cloud Infrastructure**: Vertex AI / Google Cloud Functions
+
+![aira-code-flow](https://github.com/user-attachments/assets/93cb6a46-155f-403a-9de5-1adb548e2dbe)
 
 ## 📦 Installation
 
